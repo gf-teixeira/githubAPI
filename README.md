@@ -1,4 +1,4 @@
 # githubAPI
 
- <img src="/images/gif1.gif">
+ <img src="/images/gif2.gif">
 
