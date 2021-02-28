@@ -3,7 +3,7 @@ let reposArray = [];
 /*********************/
 let ul = document.createElement("ul");
 document.querySelector(".repoBox").appendChild(ul);
-
+document.querySelector(".")
 function gitRepos(){
     let user = document.querySelector("input").value;
     if(!user){
